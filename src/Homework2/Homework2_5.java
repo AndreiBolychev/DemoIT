@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class Homework2_5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int num = 0;
+        int num = 1;
         while (true) {
             System.out.print("Введите целое положительное число: ");
             if (scanner.hasNextInt()) {
